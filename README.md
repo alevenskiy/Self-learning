@@ -9,4 +9,7 @@ first steps
 2 - add smth use git command
   1) create project Sum
   2) create folder Sum in repository Self-learning
-  3) upload with ming
+  3) upload with ming // it upload to master's code, but i need to see it at main
+  4) try to move it under the main // looks like these projects are different, so it will not work
+ 
+Okay thats done. Next repository for free course
